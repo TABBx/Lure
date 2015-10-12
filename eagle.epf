@@ -350,7 +350,7 @@ UsedLibrary="/home/kallisti5/eagle-7.4.0/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="2341 162 2940 561"
+Loc="1997 227 2596 619"
 State=2
 Number=0
 
